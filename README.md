@@ -3,11 +3,11 @@
 give a pull request by editing this readme and your solution write your solution here itself
 
  example
- __YOUR NAME and github link 
- PROBLEM NAME
- SUDO CODE 
- or 
- PROGRAM_
+ __YOUR NAME and github link__
+ __PROBLEM NAME__
+ __SUDO CODE__
+ __or__ 
+ __PROGRAM__
 
 Contribute your code here for your approach to the prime number and other concepts
 
